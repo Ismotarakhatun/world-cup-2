@@ -1,0 +1,200 @@
+.world-cup h1 {
+    font-size: 50px;
+}
+
+.world-cup button {
+    background-color: red;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+}
+
+.container {
+    background-color: black;
+    width: 100%;
+    height: 500px;
+    color: white;
+    border-radius: 50px;
+
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.container-2 {
+    margin-top: 100px;
+    display: flex;
+
+}
+
+.container-2 .group {
+    background-color: black;
+    width: 150px;
+    height: 200px;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+.container-2 .a {
+    background-color:red;
+    color: white;
+    width: 150px;
+    height: 50px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.container-2 .b {
+    background-color: white;
+    width: 150px;
+    height: 50px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.container-2 .c {
+    background-color:white;
+    width: 150px;
+    height: 50px;
+    border-radius: 10px;
+
+}
+
+.photo-gellary {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+    margin-left: 10px;
+
+}
+.photo-gellary div{
+    width: 300px !important;
+    text-align: center;
+    padding-top:20px ;
+}
+.photo-gellary img{
+    height: 80px;
+    width: 100px;
+}
+
+.photo-gellary .pic-1 {
+    background-color: ghostwhite;
+    border-radius: 10px;
+    height: 220px;
+    
+
+}
+.pic-1 div{
+    padding-left: 20px;
+    display: flex;
+}
+.pic-1 h3{
+    color: #4D4D4D;
+}
+
+
+.photo-gellary .pic-2 {
+    background-color: ghostwhite;
+    border-radius: 10px;
+    height: 220px;
+}
+.pic-2 div{
+    padding-left: 20px;
+    display: flex;
+}
+.pic-2 h3{
+    color: #4D4D4D;
+}
+
+
+
+
+
+
+.photo-gellary .pic-3 {
+    background-color: ghostwhite;
+    border-radius: 10px;
+    height: 200px;
+}
+.pic-3 div{
+    padding-left: 20px;
+    display: flex;
+}
+.pic-3 h3{
+    color: #4D4D4D;
+}
+
+
+
+.photo-gellary .pic-4 {
+    background-color: ghostwhite;
+    border-radius: 10px;
+    height: 200px;
+}
+.pic-4 div{
+    padding-left: 20px;
+    display: flex;
+}
+.pic-4 h3{
+    color: #4D4D4D;
+}
+
+
+
+.photo-gellary .pic-5 {
+    background-color: ghostwhite;
+    border-radius: 10px;
+    height: 200px;
+}
+.pic-5 div{
+    padding-left: 20px;
+    display: flex;
+}
+.pic-5 h3{
+    color: #4D4D4D;
+}
+
+
+
+.photo-gellary .pic-6 {
+    background-color: ghostwhite;
+    border-radius: 10px;
+    height: 200px;
+}
+.pic-6 div{
+    padding-left: 20px;
+    display: flex;
+}
+.pic-6 h3{
+    color: #4D4D4D;
+}
+
+
+.photo-gellary button {
+    height: 30px;
+    width: 100px;
+    border-radius: 5px;
+}
+
+.icon {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.hr {
+    margin-bottom: 1px;
+}
+
+.apps {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+}
+
+.footer {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
